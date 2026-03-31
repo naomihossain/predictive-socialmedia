@@ -1,4 +1,4 @@
-# predictive-socialmedia
+# Predicting Depression Severity from Social Media Behavior
 
 ## Objective
 Identify which social media behaviors have predictive power for depression severity.
